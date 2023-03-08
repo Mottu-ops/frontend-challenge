@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Azeite",
+    "price": 15,
+    "quantity": 10,
+    "manufactureDate": "2022-03-05-T00:00:00Z",
+    "expirationDate": "2022-06-02-T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Óleo",
+    "price": 2,
+    "quantity": 1,
+    "manufactureDate": "2023-03-05-T00:00:00Z",
+    "expirationDate": "2023-04-08-T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Vinagre",
+    "price": 5,
+    "quantity": 100,
+    "manufactureDate": "2022-02-04-T00:00:00Z",
+    "expirationDate": "2023-08-08-T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Ovos",
+    "price": 3,
+    "quantity": 30,
+    "manufactureDate": "2022-12-12-T00:00:00Z",
+    "expirationDate": "2023-01-01-T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Creme de Leite",
+    "price": 6,
+    "quantity": 3,
+    "manufactureDate": "2022-01-10-T00:00:00Z",
+    "expirationDate": "2023-05-15-T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Maçã",
+    "price": 6,
+    "quantity": 2,
+    "manufactureDate": "2022-02-10-T00:00:00Z",
+    "expirationDate": "2022-02-04-T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Banana",
+    "price": 4,
+    "quantity": 8,
+    "manufactureDate": "2023-02-12-T00:00:00Z",
+    "expirationDate": "2023-06-12-T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Azeitona",
+    "price": 1,
+    "quantity": 9,
+    "manufactureDate": "2023-02-08-T00:00:00Z",
+    "expirationDate": "2023-07-10-T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Abacate",
+    "price": 2.5,
+    "quantity": 4,
+    "manufactureDate": "2023-02-08-T00:00:00Z",
+    "expirationDate": "2023-08-09-T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Mamão",
+    "price": 7,
+    "quantity": 3,
+    "manufactureDate": "2023-01-09-T00:00:00Z",
+    "expirationDate": "2023-09-09-T00:00:00Z"
+  }
+]
